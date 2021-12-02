@@ -1,6 +1,9 @@
 red
 orange
 yellow
+chartreuse
+lime
 green
 blue
 violet
+purple
